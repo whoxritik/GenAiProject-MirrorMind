@@ -1,0 +1,18 @@
+[project]
+name = "Emotion-Aware Smart Mirror for Mental Health Monitoring"
+version = "0.1.0"
+description = "An AI-powered smart mirror that detects a person's facial emotions (via CNN) when they look at themselves in the morning, and gives a short report based on their mood, stress level, and routine health habits"
+requires-python = ">=3.11"
+dependencies = [
+    "gtts>=2.5.4",
+    "numpy>=2.3.2",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "psycopg2-binary>=2.9.10",
+    "pygame>=2.6.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.1",
+    "streamlit>=1.49.1",
+    "tensorflow>=2.20.0",
+]
