@@ -1,0 +1,266 @@
+[
+  {
+    "timestamp": "2025-09-03T01:46:35.695833",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 1
+  },
+  {
+    "timestamp": "2025-09-03T02:02:00.054176",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:02:28.536158",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:02:58.958452",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:03:08.266675",
+    "emotion": "happy",
+    "confidence": 0.17377567291259766,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:03:35.156907",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:04:00.393237",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:04:52.487778",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:04:58.838682",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:06:07.955694",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:06:29.257379",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:06:40.131059",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:06:58.285867",
+    "emotion": "happy",
+    "confidence": 0.17388415336608887,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:07:10.949596",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:08:15.309648",
+    "emotion": "happy",
+    "confidence": 0.17251023650169373,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:08:28.965672",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:08:41.082815",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:08:56.646495",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:09:07.028874",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:09:22.784455",
+    "emotion": "happy",
+    "confidence": 0.17461618781089783,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:13:54.658170",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:14:16.621619",
+    "emotion": "sad",
+    "confidence": 0.17053310573101044,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:14:41.704431",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:15:41.268267",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T02:16:02.429738",
+    "emotion": "happy",
+    "confidence": 0.1712407022714615,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 2
+  },
+  {
+    "timestamp": "2025-09-03T16:52:54.905347",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:53:01.682605",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:53:19.410291",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:53:34.209468",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:53:53.430621",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:53:58.313631",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:54:17.535483",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  },
+  {
+    "timestamp": "2025-09-03T16:54:22.454899",
+    "emotion": "neutral",
+    "confidence": 0.0,
+    "notes": "",
+    "date": "2025-09-03",
+    "hour": 16
+  }
+]
